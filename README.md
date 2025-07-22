@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shreya
 - 👀 I’m interested in Software engineerig
-- 🌱 I’m currently learning full stack development
 - 📫 Reach me at shreyamishra9618@gmail.com
 
 <!---
